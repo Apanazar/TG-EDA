@@ -17,6 +17,6 @@
 ## Ссылки:
 [aiogram](https://github.com/aiogram/aiogram)  
 [GastroNomadBot](https://t.me/GastroNomadBot)  
+  
 ---
-
-![]()
+![](https://github.com/Apanazar/stuprum/blob/master/tg-eda.png)
